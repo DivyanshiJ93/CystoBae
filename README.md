@@ -66,7 +66,7 @@ CystoBae/
 
 ## 📸 UI Preview
 
-![CystoBae UI Screenshot](screenshot.png)
+![CystoBae UI Screenshot](Screenshot 2025-04-20 133746.png)
 
 ## ❤️ Acknowledgements
 
